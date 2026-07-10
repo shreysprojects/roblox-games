@@ -2,7 +2,7 @@
 
 # 🎮 Roblox Games
 
-Games I've designed and built on Roblox using **Luau** and **Roblox Studio** — published, live, and played by real players.
+Games I've designed and built on Roblox using **Luau** and **Roblox Studio**
 
 ![Roblox](https://img.shields.io/badge/Platform-Roblox-00A2FF?logo=roblox&logoColor=white)
 ![Luau](https://img.shields.io/badge/Language-Luau-000000?logo=lua&logoColor=white)
